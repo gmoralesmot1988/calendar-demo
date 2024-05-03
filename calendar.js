@@ -1,4 +1,3 @@
-
 <script>
 function convertDateToISO(dateString) {
     var parts = dateString.split(' ');
